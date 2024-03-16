@@ -1,5 +1,13 @@
-![GIF](https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif)
-    
+```
+  
+  _   _      _ _         __        __         _     _ _ 
+ | | | | ___| | | ___    \ \      / /__  _ __| | __| | |
+ | |_| |/ _ \ | |/ _ \    \ \ /\ / / _ \| '__| |/ _` | |
+ |  _  |  __/ | | (_) |    \ V  V / (_) | |  | | (_| |_|
+ |_| |_|\___|_|_|\___( )    \_/\_/ \___/|_|  |_|\__,_(_)
+                     |/
+```
+
 ## Hey! 👋
 
 I'm Daniyal Master, a 13 year old self taught developer from Canada. I'm currently trying to become a Full Stack Developer!
