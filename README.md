@@ -62,4 +62,4 @@ I'm Daniyal Master, a 13 year old self taught developer from Canada. I'm current
 
 ## Fun Fact 💡
 
-⚡ The first computer bug was an actual insect – a moth – found in a Harvard Mark II computer in 1947, inspiring the term debugging.
+⚡ The first computer bug was an actual insect, a moth found in a Harvard Mark II computer in 1947, inspiring the term debugging.
