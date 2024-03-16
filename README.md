@@ -1,7 +1,4 @@
-<div style="padding-top:80.000%;position:relative;">
-    <iframe src="https://gifer.com/embed/NvL" width="100%" height="100%" style="position:absolute;top:0;left:0;" frameborder="0" allowfullscreen></iframe>
-</div>
-<p align="center"><a href="https://gifer.com">via GIFER</a></p>
+![GIF](https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif)
     
 ## Hey! 👋
 
