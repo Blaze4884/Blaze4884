@@ -58,7 +58,7 @@ I'm Daniyal Master, a 13 year old self taught developer from Canada. I'm current
 - 📷 Instagram: https://www.instagram.com/daniyal.m_/
 - 🖱️ Frontend Mentor: https://www.frontendmentor.io/profile/Blaze4884
 
-## A Few Things About Me 
+## A Few Things About Me 🤌
 
 - My favorite music genre is Rap 🎧
 - My favorite sport is Hockey 🏒
