@@ -60,6 +60,7 @@ I'm Daniyal Master, a 14 year old self taught developer from Canada. I'm current
 - My favorite music genre is Rap 🎧
 - My favorite sport is Hockey 🏒
 - I love technology 🖥️
+- I like space 🌌
 
 ## Fun Fact 💡
 
